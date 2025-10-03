@@ -1,0 +1,141 @@
+h1 {
+    background-color: pink;
+    text-align: center;
+}
+
+.L {
+    color: purple;
+}
+
+.C {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.P {
+    display: block;
+    margin: 10px auto;
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: rgb(89, 199, 89);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+a {
+    display: block;
+    margin: 10px auto;
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: rgb(192, 127, 189);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold; 
+}
+
+.E {
+    display: block;
+    margin: 10px auto;
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: rgb(241, 1, 121);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;  
+}
+
+.A {
+    display: block;
+    margin: 10px auto;
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: rgb(201, 1, 241);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;  
+}
+
+.B {
+    display: block;
+    margin: 10px auto;
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: rgb(75, 87, 255);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;  
+}
+
+.ME {
+    display: block;
+    text-align: right;
+    margin: 20px;
+    background-color: rgb(83, 189, 189);
+}
+
+.ME img {
+    border: 3px turquoise;
+    border-radius: 12px;
+    transition: 0.3s;
+    
+}
+
+.ME img:hover {
+    transform: scale(1.05);
+    border-color: aqua;
+}
+
+.CO {
+    display: block;
+    text-align: right;
+    margin: 20px;
+    background-color: rgb(77, 231, 128);
+}
+
+.CO img {
+    border: 3px turquoise;
+    border-radius: 12px;
+    transition: 0.3s;
+    
+}
+
+.CO img:hover {
+    transform: scale(1.05);
+    border-color: aqua;
+}
+
+.PO {
+    display: block;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(255, 79, 72);
+}
+
+.PO img {
+    border: 3px turquoise;
+    border-radius: auto;
+    transition: 0.3s;
+    
+}
+
+.PO img:hover {
+    transform: scale(1.05);
+    border-color: aqua;
+}
+
+.CA {
+      background: white; /* color del cuadro */
+      padding: 20px; /* espacio interno */
+      margin: auto; /* separación entre cuadros */
+      border-radius: 10px; /* esquinas redondeadas */
+      box-shadow: 0px 4px 8px rgba(0,0,0,0.2); /* sombra */
+      max-width: 600px;
+      text-align: center;
+    }
